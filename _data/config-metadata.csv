@@ -1,15 +1,18 @@
 field,display_name,browse_link,external_link
 title,Title,
-creator,Creator,
-date,Date Created,
-description,Description,
-subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
-identifier,Source Identifier,,
-type,Type,
-format,Format,
-rights,Rights,
+artist,Artist,
+yearproduced,Year Produced,
+placeofcreation,Place of Creation,
+editionsize,Edition Size,true
+dimensions,Dimensions
+expandeddimensions,Expanded Dimensions
+description,Description
+genre,Genre
+processtechnique,Process/Technique,,
+materials,Materials,
+structurephysicalformat,Structure/Physical Format,
+enclosure,Enclosure,
 rightsstatement,Rights Statement,,true
+subject,Subject
+use,Use
+holdingcollection,Holding Collection
