@@ -1,18 +1,18 @@
 field,display_name,browse_link,external_link
 title,Title,
 artist,Artist,
-yearproduced,Year Produced,
-placeofcreation,Place of Creation,
-editionsize,Edition Size,true
+year_produced,Year_Produced,
+place_of_creation,Place_of_Creation,
+edition_size,Edition_Size,true
 dimensions,Dimensions
-expandeddimensions,Expanded Dimensions
+expanded_dimensions,Expanded_Dimensions
 description,Description
 genre,Genre
-processtechnique,Process/Technique,,
+process_technique,Process_Technique,,
 materials,Materials,
-structurephysicalformat,Structure/Physical Format,
+structure_physical_format,Structure_Physical_Format,
 enclosure,Enclosure,
-rightsstatement,Rights Statement,,true
+rights,Rights,,true
 subject,Subject
 use,Use
-holdingcollection,Holding Collection
+holding_collection,Holding_Collection
