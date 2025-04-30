@@ -1,17 +1,4 @@
 field,display_name,btn,hidden,sort_name
 year_produced,Year Produced,,,Date
 title,Title,,,
-artist,Artist,,,
 subject,Subject,true
-location,,true
-edition_size,Edition Size,,Edition Size
-dimensions,Dimensions,,,
-expanded_dimensions,Expanded Dimensions,,,
-description,,,,
-genre,Genre,,Genre
-process_technique,Process and Technique,,Process and Technique
-materials,materials,,Materials
-structure_physical_format,Structure and Physical Format,,Structure
-enclosure,Enclosure,,,
-use,Use,,Use
-holding_collection,Holding Collection,,,
