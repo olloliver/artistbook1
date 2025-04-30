@@ -10,7 +10,6 @@ credits: true
 
 {% include feature/jumbotron.html objectid="hex0002" %}
 
-{% include feature/nav-menu.html sections="
 
 ## About the Collection
 
