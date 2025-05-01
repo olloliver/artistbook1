@@ -1,7 +1,10 @@
 field,index,display
 title,true,true
-date,true,true
-creator,true,false
-description,true,true
+year_produced,true,true
 subject,true,true
-location,true,false
+place_of_creation,true,true
+genre,true,true
+process_technique,true,true
+materials,true,true
+structure_physical_format,true,true
+use,true,true
