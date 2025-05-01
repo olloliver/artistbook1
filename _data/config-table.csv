@@ -1,5 +1,11 @@
 field,display_name
 title,Title
-date,Date
+year_produced,Date
 description,Description
 subject,Subjects
+dimensions,Dimensions
+genre,Genre
+process_technique,Process or Technique
+materials,Materials
+structure,Structure
+use,Use
