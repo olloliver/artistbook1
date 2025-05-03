@@ -8,7 +8,7 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
-featured-image: hex0003
+featured-image: hex0002
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: 10em # Default is 8em
 # optional: change position of background image, center, top, bottom
@@ -71,7 +71,7 @@ data-child-objects: false # true / false - if true, child objects will appear li
 carousel-child-objects: false # true / false - if true, child objects will appear on homepage carousel
 browse-child-objects: true # true / false - if true, child objects will appear on browse page and child objects' metadata will populate cloud pages like Subjects page and Locations page, as well as featured terms boxes on the home page
 search-child-objects: true # true / false - if true, child objects will appear on on search page along with parent objects
-
+browse-parent-objects:  false
 ##########
 # ADVANCED OPTIONS
 #
